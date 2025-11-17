@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alsonfx
-- 👀 I’m interested in AI, Machine Learning, Game Theory, Cognitive Modeling, Computer Vision, and rock climbing.
-- 🌱 I’m currently learning how to be a better person.
+- 👀 I’m interested in AI, Machine Learning, Game Theory, Cognitive Modeling, Computer Vision, Human-AI Collaboration, and Data Science.
+- 🌱 I’m currently learning how to be a better person. I enjoy rock climbing, mountain biking, and reading.
 - 💞️ I’m looking to collaborate on challenging and intersting projects with real world business applications.
 - 📫 How to reach me: Alsonfx on almost all mediums!
 
